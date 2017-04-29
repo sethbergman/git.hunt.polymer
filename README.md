@@ -1,5 +1,7 @@
 # GitHunt Polymer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/git.hunt.polymer.svg)](https://greenkeeper.io/)
+
 An example of a client-side app built with Polymer and Apollo Client.
 
 Polymer-Apollo package : https://github.com/aruntk/polymer-apollo
