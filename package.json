@@ -15,7 +15,7 @@
     "moment": "^2.18.1",
     "node-emoji": "^1.5.1",
     "polymer-apollo": "^1.1.23",
-    "subscriptions-transport-ws": "^0.5.5-alpha.0"
+    "subscriptions-transport-ws": "^0.7.0"
   },
   "devDependencies": {
     "babel-core": "^6.8.0",
